@@ -14,5 +14,6 @@ class rakhara{
 
         System.out.println("Isi Branch development");
         System.out.println("Isi Branch feature A");
+        System.out.println("Isi Branch feature B");
     }
 }
