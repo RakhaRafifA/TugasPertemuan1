@@ -13,5 +13,6 @@ class rakhara{
         System.out.println("Penambahan line untuk Stash");
 
         System.out.println("Isi Branch development");
+        System.out.println("Isi Branch feature B");
     }
 }
