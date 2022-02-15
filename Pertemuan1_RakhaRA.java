@@ -10,5 +10,6 @@ class rakhara{
         System.out.println("D");
 
         System.out.println("Penambahan line setelah stash");
+        System.out.println("Penambahan line untuk Stash");
     }
 }
